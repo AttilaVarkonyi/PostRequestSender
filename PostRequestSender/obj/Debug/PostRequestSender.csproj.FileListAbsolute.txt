@@ -1,0 +1,9 @@
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\bin\Debug\PostRequestSender.exe.config
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\bin\Debug\PostRequestSender.exe
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\bin\Debug\PostRequestSender.pdb
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\obj\Debug\PostRequestSender.csprojAssemblyReference.cache
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\obj\Debug\PostRequestSender.Form1.resources
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\obj\Debug\PostRequestSender.Properties.Resources.resources
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\obj\Debug\PostRequestSender.csproj.GenerateResource.cache
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\obj\Debug\PostRequestSender.exe
+C:\Users\varco\source\repos\PostRequestSender\PostRequestSender\obj\Debug\PostRequestSender.pdb
