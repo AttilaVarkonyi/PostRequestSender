@@ -1,6 +1,6 @@
 # PostRequestSender
 Jelen mappa tartalma egy nagyobb körű projekt osztályaként szolgált, ami sajnálatos módon nem elérhető.
-Célja egy olyan osztály létrehozása, ami által http post requesteket küldhetünk adott web servernek a PostRequestString osztály által, amelyet az olvasó megtalálhat a PostRequestString.cs fájlban.
+Célja egy olyan osztály létrehozása, amely által http post requesteket küldhetünk adott web servernek a PostRequestString osztály által, amelyet az olvasó megtalálhat a PostRequestString.cs fájlban.
 A hozzáírt Windows Form csupán a tesztelést szolgálta.
 
 ## A http protokoll, a http request, a post request, és a request handler definiálása
